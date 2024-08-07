@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bem-Vindos ao meu GitHub! :star:
 
-<!--
-**guilhermett19/guilhermett19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:alien: Me chamo, Guilherme!  
+:wrench: Estudando Java pela plataforma DIO  
+:mortar_board: Bacharel em Sistemas de Informação - Unifebe  
+:milky_way: “Em matemática você não entende as coisas. Você se acostuma a elas.”  
+💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
+:four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, gostam de programação.
 
-Here are some ideas to get you started:
+<div align="center">
+<div style="display: inline_block"><br>
+<img align="center" alt="Aline-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Aline-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Aline-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Aline-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermett19&show_icons=true&theme=dracula)
+
+<br>
